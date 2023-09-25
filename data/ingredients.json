@@ -1,0 +1,111 @@
+{
+  "ingredients":[
+  {
+    "name": "Thyme",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 500
+  },
+  {
+    "name": "Rosemary",
+    "minimum_amount": 50,
+    "amount_in_kitchen": 100
+  },
+  {
+    "name": "butter",
+    "minimum_amount": 50,
+    "amount_in_kitchen": 350
+  },
+  {
+    "name": "vanilla extract",
+    "minimum_amount": 30,
+    "amount_in_kitchen": 100
+  },
+  {
+    "name": "flour",
+    "minimum_amount": 200,
+    "amount_in_kitchen": 3000
+  },
+  {
+    "name": "plain Greek yogurt",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 2000
+  },
+  {
+    "name": "crème fraîchet",
+    "minimum_amount": 30,
+    "amount_in_kitchen": 60
+  },
+  {
+    "name": "Brie",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 700
+  },
+  {
+    "name": "filet mignon",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 3000
+  },
+  {
+    "name": "Duck",
+    "minimum_amount": 50,
+    "amount_in_kitchen": 1000
+  },
+  {
+    "name": "Chicken",
+    "minimum_amount": 1000,
+    "amount_in_kitchen": 20000
+  },
+  {
+    "name": "Milk",
+    "minimum_amount": 1000,
+    "amount_in_kitchen": 2000
+  },
+  {
+    "name": "Granulated sugar",
+    "minimum_amount": 500,
+    "amount_in_kitchen": 1000
+  },
+  {
+    "name": "Honey",
+    "minimum_amount": 400,
+    "amount_in_kitchen": 2000
+  },
+  {
+    "name": "Maple syrup",
+    "minimum_amount": 500,
+    "amount_in_kitchen": 5000
+  },
+  {
+    "name": "Dark chocolate",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 1000
+  },
+  {
+    "name": "Milk chocolate",
+    "minimum_amount": 700,
+    "amount_in_kitchen":7000
+  },
+  {
+    "name": "White chocolate",
+    "minimum_amount": 500,
+    "amount_in_kitchen": 1000
+  },
+  {
+    "name": "Grand Marnier",
+    "minimum_amount": 200,
+    "amount_in_kitchen": 1000
+  },
+  
+  {
+    "name": "Choux pastry",
+    "minimum_amount": 100,
+    "amount_in_kitchen": 5000
+  },
+  {
+    "name": "Gelatin",
+    "minimum_amount": 200,
+    "amount_in_kitchen": 8000
+  }
+  
+]
+}

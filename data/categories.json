@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Les plats principaux",
+    "description": "",
+    "_id": "64b5c2dbddad868a1eb2a959"
+  },
+  {
+    "name": "Entrées",
+    "description": "",
+    "_id": "64b5c322ddad868a1eb2a95d"
+  },
+  {
+    "name": "Dessert",
+    "description": "",
+    "_id": "64b5c379ddad868a1eb2a961"
+  },
+  {
+    "name": "French Pastry",
+    "description": "",
+    "_id": "64b5c9b35eb65a548beee7b2"
+  },
+  {
+    "name": "Tea cookies",
+    "description": "",
+    "_id": "64b5c9eb08c57cadd071f86e"
+  },
+  {
+    "name": "Breakfast",
+    "description": "",
+    "_id": "64b5ca1e320d370fcadc22f3"
+  }
+]

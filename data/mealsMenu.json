@@ -1,0 +1,254 @@
+{
+        "meals":[
+         {         
+                "name": "Blanquette de veau",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.tastingtable.com/img/gallery/20-french-dishes-you-need-to-try-at-least-once/blanquette-de-veau-1687539608.webp"
+        },
+        {         
+                "name": "Sole meunière",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/220526172206-14-classic-french-dishes-sole-meunire.jpg?c=original&q=w_1280,c_fill"
+        },
+        {         
+                "name": "Salmon En Papillote ",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.jessicagavin.com/wp-content/uploads/2017/04/salmon-en-papillote-with-asparagus-600x900.jpg"
+        },
+        {         
+                "name": "Ratatouille",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/30/1501013108-shot-2-88.jpg?crop=1.0xw:1xh;center,top&resize=980:*"
+        },
+        {         
+                "name": "Steak au Poivre",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.foodandwine.com/thmb/tAhV0awIwqCpT3sQ8VVqCGVzqkE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steak-au-poivre-red-wine-pan-sauce-hero-01-FT-RECIPE1222-c9e1da15f33f4076986b6ce37ae5bbb0.jpg"
+        },
+        {         
+                "name": "Poulet à la lyonnaise sauce",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.foodandwine.com/thmb/Q2j4ND_NjSlnjiXRJ4WBR4hyynA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/julia-child-favorite-roast-chicken-XL-RECIPE0313-e3f972b3283a4f9080378a51345c032b.jpg"
+        },
+        {         
+                "name": "Steak Frites au Beurre Béarnaise",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.tastingtable.com/img/gallery/20-french-dishes-you-need-to-try-at-least-once/steak-frites-1687539608.webp"
+        },
+        {         
+                "name": "Classic Duck Confit",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.foodandwine.com/thmb/IeTxV8GWhVxO6tkGfwNPmgTZyrQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Duck-Confit-FT-RECIPE1022-2000-4f0648f877c0475c84e030a8da8200a9.jpg"
+        },
+        {         
+                "name": "Filets de porc farcis au bacon",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.foodandwine.com/thmb/SijuMFW_CtSUou1fojzsXvLytx0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-fw200610_stuffedPork-9358ee688cd947d09270f8e472b7a920.jpg"
+        },
+        {         
+                "name": "Quenelles de Brochet",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.saveur.com/uploads/2019/02/08/IQRV72XFA42XG755ELH72ETUKQ-1024x768.jpg?auto=webp&optimize=high&quality=70&width=1920"
+        },
+        {         
+                "name": "Steak Diane",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.saveur.com/uploads/2019/02/08/7SXVPPU2VGH3IBR7DUSZOLAUWA.jpg?auto=webp&optimize=high&quality=70&width=1920"
+        },
+        {         
+                "name": "Duck à l'Orange",
+                "price":30,
+                "category": "Les plats principaux",
+                "image": "https://www.foodandwine.com/thmb/l6evMuBx70LVaY-Spx7Hf2tS83I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-201110-r-duck-a-l-orange-3b41e39709044bb29288f22093c14fdd.jpg"
+        },
+        {         
+                "name": "Tarte Flambée",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://cdn-bmalj.nitrocdn.com/uirOOtSrYrqqUksKHkiSCjZGZlPeXsmk/assets/images/optimized/rev-c3635d7/images/French-Food-Quiche-Lorraine--1536x864.jpg"
+       },
+       {         
+                "name": "Cervelle de Canut",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://explorepartsunknown.com/wp-content/uploads/2018/12/GettyImages-656288019-e1544120847151.jpg?quality=95&strip=color"
+      },
+      {         
+                "name": "Quiche Lorraine",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://static01.nyt.com/images/2018/01/16/dining/16COOKING-QUICHELORRAINE2/16COOKING-QUICHELORRAINE2-articleLarge.jpg?w=1280&q=75"
+      },
+      {         
+                "name": " Lyonnaise salad",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://www.oliviascuisine.com/wp-content/uploads/2016/07/poached-egg-salad-683x1024.jpg"
+      },
+      {         
+                "name": "Brioche",
+                "price":20,
+                "category": "Entrées",
+                "image": "mealsImages/b1.webp"
+      },
+      {         
+                "name": "Duck Pâté en Croûte",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://www.saveur.com/uploads/2019/02/08/OOI633ULDYWIHZQY2TC32KRHWA-1024x768.jpg?auto=webp&optimize=high&quality=70&width=1920"
+       },
+       {         
+                "name": "Soupe à l’oignon:",
+                "price":20,
+                "category": "Entrées",
+                "image": "http://www.strawberryplum.com/wp-content/uploads/2013/01/DSC06964-682x1024.jpg"
+       },
+       {         
+                "name": "Croque Monsieur",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://fastfoodbistro.com/wp-content/uploads/2020/02/Croque-Monsieur-6.jpg"
+       },
+       {         
+                "name": "Soupe au pistou",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://b3067249.smushcdn.com/3067249/wp-content/uploads/2018/11/Soupe-au-pistou-848x477.jpg?lossy=0&strip=1&webp=1"
+      },
+      {         
+                "name": "Terrine de porc",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://medias.jecuisinedugibier.fr/2019/11/terrine-de-sanglier-chichichoc-jecuisinedugibier.jpg"
+       },
+       {         
+                "name": "Cheese soufflé",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://www.tastingtable.com/img/gallery/20-french-dishes-you-need-to-try-at-least-once/cheese-souffl-1687539608.webp"
+       },
+       {         
+                "name": "Salade Niçoise",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/15/24/1433971135-nicoise-plated.jpg?crop=0.503xw:1.00xh;0.200xw,0&resize=980:*"
+       },
+       {         
+                "name": "Gratin Dauphinois ",
+                "price":20,
+                "category": "Entrées",
+                "image": "https://www.tastingtable.com/img/gallery/20-french-dishes-you-need-to-try-at-least-once/gratin-dauphinois-1687539608.webp"
+       },
+       {         
+                "name": "Alsatian Rhubarb Tart",
+                "price":25,
+                "category": "Dessert",
+                "image": "https://www.foodandwine.com/thmb/j0CKoqFQblKIN3CV1B_-T29B8KM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-fw200507_rhubarb-f64822aeeb32414fac2847883815852f.jpg"
+       },
+       {         
+                "name": "Mango-Basil Vacherin",
+                "price":25,
+                "category": "Dessert",
+                "image": "https://www.foodandwine.com/thmb/bFWHyMcpSpMiwv7-m5-9NlFIn5U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201104-r-mango-basil-vacherin-a7de6975b9984e62bd9432db21c68564.jpg"
+    },
+    {         
+            "name": "Bittersweet Chocolate Tart",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.foodandwine.com/thmb/fyQY5CqEzVXQOP4dPUxjQe8UlME=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-201012-r-chocolate-tart-3fa6a64b448940cfb0ec8894f671505b.jpg"
+    },
+    {         
+            "name": "Mille Feuille",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.allrecipes.com/thmb/OTl27tYO37cSrIOFiOMRx611wtw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mille-feuille-napoleon-pastry-sheets-842b4f64746c4c0fb8cfb1b9d634ea03.jpeg"
+    },
+    {         
+            "name": "Cream Puffs",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://assets.epicurious.com/photos/54b1735dc6a78d1a4a60be38/1:1/w_1600%2Cc_limit/395454_cream-puffs_1x1.jpg"
+    },
+    {         
+            "name": "Hazelnut and Crème Fraîche Meringues",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.foodandwine.com/thmb/qTUykO-BV6JC9nIqO1XO4ORusOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hazelnut-and-creme-fraiche-meringues-with-lemon-and-parmesan-FT-RECIPE0521-ae305aeca9c541efa27b25ae761217ff.jpg"
+    },
+    {         
+            "name": "Orange-Anise Croquembouche with White Chocolate",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.foodandwine.com/thmb/dJaag1HF4dHpQHfbgrL0HXEuZvM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/orange-anise-croquembouche-with-white-chocolate-xl-MAG1218-456f3ec492d944eabc36b8f87750b067.jpg"
+    },
+    {         
+            "name": "Madeleines",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://assets.epicurious.com/photos/54dcdce54f77a310045d20fd/1:1/w_1600%2Cc_limit/51263610_daniel-bouluds-madeleines_1x1.jpg"
+    },
+    {         
+            "name": "Plum Galette",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.foodandwine.com/thmb/2Iq9cS2bLYmfUK1xAqwqasMwVqE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-201303-r-plum-galette-54db74fad8f84159907899cd30072b2d.jpg"
+    },
+    {         
+            "name": "Crème Caramel",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://www.foodandwine.com/thmb/GfL5TlNuLianzh8-2tja3p3qBto=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201207-xl-frozen-creme-caramel-72b75e8f0bce4f88bbebdc972f35329b.jpg"
+    },
+    {         
+            "name": "Frasier",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://assets.epicurious.com/photos/62b47d4bd12fc2ed1064077a/1:1/w_1600%2Cc_limit/FRAISIER_NEW_02_VOG_final.jpg"
+    },
+    {         
+            "name": "Mont-Blanc",
+            "price":25,
+            "category": "Dessert",
+            "image": "https://assets.epicurious.com/photos/63866f391adf01d2d70b93c7/1:1/w_1600,c_limit/039_Duso_9780451499141_art_r1_VOG_final.jpg"
+    },
+    {         
+            "name": "Dark ’n’ Stormy Mocktail",
+             "price":15,
+            "category": "Drinks",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_IVs-pofjlS10bGdj5kkdPeUGE5W9EWOrw&usqp=CAU"
+    },
+    {         
+        "name": "cok1",
+         "price":15,
+        "category": "Drinks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_IVs-pofjlS10bGdj5kkdPeUGE5W9EWOrw&usqp=CAU"
+}, {         
+        "name": "ktail",
+         "price":15,
+        "category": "Drinks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_IVs-pofjlS10bGdj5kkdPeUGE5W9EWOrw&usqp=CAU"
+}, {         
+        "name": "Dark ",
+         "price":15,
+        "category": "Drinks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_IVs-pofjlS10bGdj5kkdPeUGE5W9EWOrw&usqp=CAU"
+}, {         
+        "name": "Stormy ",
+         "price":15,
+        "category": "Drinks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_IVs-pofjlS10bGdj5kkdPeUGE5W9EWOrw&usqp=CAU"
+}
+    
+    ]}
+

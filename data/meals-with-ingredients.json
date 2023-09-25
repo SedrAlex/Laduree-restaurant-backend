@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Eggs in Vanilla Butter Bliss",
+    "price": 200,
+    "category": "64b5c2dbddad868a1eb2a959",
+    "image": "Eggs in Vanilla.jpeg",
+    "ingredients": [
+      {
+        "ingredient": "64d240010fcad68e6fb363e0",
+        "quantity": 20,
+        "_id": "64d2439f4f5135e08b59e620"
+      },
+      {
+        "ingredient": "64d240240fcad68e6fb363e2",
+        "quantity": 25,
+        "_id": "64d2439f4f5135e08b59e621"
+      },
+      {
+        "ingredient": "64d23fcdfe474950bfff7dbb",
+        "quantity": 25,
+        "_id": "64d2439f4f5135e08b59e622"
+      }
+    ],
+    "_id": "64d2439f4f5135e08b59e61f"
+  },
+  {
+    "name": "French Pastry",
+    "price": 300,
+    "category": "64b5c322ddad868a1eb2a95d",
+    "image": "FrenchPastry.jpg",
+    "ingredients": [
+      {
+        "ingredient": "64d240010fcad68e6fb363e0",
+        "quantity": 25,
+        "_id": "64d2441aec56479c4abbf3bb"
+      },
+      {
+        "ingredient": "64d240240fcad68e6fb363e2",
+        "quantity": 30,
+        "_id": "64d2441aec56479c4abbf3bc"
+      },
+      {
+        "ingredient": "64d23fcdfe474950bfff7dbb",
+        "quantity": 25,
+        "_id": "64d2441aec56479c4abbf3bd"
+      }
+    ],
+    "_id": "64d2441aec56479c4abbf3ba"
+  },
+  {
+    "name": "Tea Cookies",
+    "price": 150,
+    "category": "64b5c9b35eb65a548beee7b2",
+    "image": "TeaCookies.png",
+    "ingredients": [
+      {
+        "ingredient": "64d240010fcad68e6fb363e0",
+        "quantity": 20,
+        "_id": "64d24484ae037e31c6e1aa9c"
+      },
+      {
+        "ingredient": "64d240240fcad68e6fb363e2",
+        "quantity": 25,
+        "_id": "64d24484ae037e31c6e1aa9d"
+      },
+      {
+        "ingredient": "64d23fcdfe474950bfff7dbb",
+        "quantity": 20,
+        "_id": "64d24484ae037e31c6e1aa9e"
+      }
+    ],
+    "_id": "64d24484ae037e31c6e1aa9b"
+  }
+]
